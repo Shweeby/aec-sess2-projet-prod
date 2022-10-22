@@ -1,0 +1,30 @@
+{
+  "name": "projet-ski",
+  "version": "1.0.0",
+  "description": "projet-ski",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenIntegration2020/projet-ski.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BenIntegration2020/projet-ski/issues"
+  },
+  "homepage": "https://github.com/BenIntegration2020/projet-ski#readme",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "express-ejs-layouts": "^2.5.1",
+    "method-override": "^3.0.0",
+    "node-localstorage": "^2.2.1",
+    "path": "^0.12.7",
+    "url": "^0.11.0"
+  }
+}
